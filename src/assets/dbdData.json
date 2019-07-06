@@ -1,0 +1,228 @@
+{
+  "main": {
+    "welcome": "Dead by Daylight",
+    "button": "Try Your Luck",
+    "creator": "Elvis Gonzalez"
+  },
+  "characters": {
+    "survivor": [
+      {
+        "name": "Dwight Fairfield",
+        "bio": "Dwight was geeky and scrawny through high school. He always wanted to be one of the cool kids, but somehow never had the charisma. He tried out for the football team but was cut, the basketball team didn't even take a look, and his grades were distinctly below average. One weekend, on a team building exercise from his dead-end job, Dwight's boss led them deep into the woods before breaking out his family recipe moonshine. Dwight remembered taking the first sip before waking up late the next morning all alone. During the night, the others had abandoned him. Once again, the laughing stock of the community Dwight tried to hike his way out of the woods. That was the last anyone ever heard of Dwight Fairfield. Dwight isn't the typical guy you think of when someone says 'Survivor'. He lacks that certain pizazz and without his glasses he's more or less blind. But as the sun sets and the woods comes alive, Dwight clasps to his rat race life, making sure that he'll live to see another day even though something unimaginable is after him. Dwight won't stop. He'll survive no matter what. As others spent hours being seen in high school. He spent hours becoming invisible and avoiding danger. And it doesn't matter if it's dangers in the hallway or dangers in the woods. Survival is key. As other employees panic when terror infects them, Dwight makes use of his disturbing teen experience. The tables have now turned and now others need to follow to Dwight's firm directions if they are to survive as he knows how to disappear.",
+        "perks": ["Bond", "Prove Thyself", "Leader"],
+        "difficulty": "Easy",
+        "id": 0
+      },
+      {
+        "name": "Meg Thomas",
+        "bio": "Perhaps it was her mother that had instilled the fierce streak in her or maybe it was her father that left them when she was a baby. Meg excelled at schoolwork but she was off the rails. Fortunately, an athletics coach encouraged her to channel her misspent energy on the track. She motivated herself into becoming a high school star and earned a scholarship to college. When her mother fell ill, Meg decided to give up her chance at college to care for the woman who had raised her. One summer’s day, on a long run deep in the woods, Meg vanished. Search as they did, they never found her body. Meg is one of those who is just simply filled with energy. Unfocused and uncontrollable energy that had to come out. As a kid it came through rowdiness and rebellion. Someone had to focus Meg before something went terribly wrong. Fortunately, someone did. She started to run. Maybe from something undefined that fueled her energy. So to run equaled life. But to run now might attract those beings that crave the pain of others. But as she runs from something, instead of towards it, she understands something. She understands that speed is not of the essence. It’s reaching that finish line. Rather last but still breathing. She deludes whatever is out there as she glides through obstacles and fear, thus managing to stay alive.",
+        "perks": ["Quick & Quiet", "Sprint Burst", "Adrenaline"],
+        "difficulty": "Easy",
+        "id": 1
+      },
+      {
+        "name": "Claudette Morel",
+        "bio": "From the day that her parents gave Claudette her first science kit, she loved experiments. Her single minded pursuit lead to an early scholarship at a great college. It was a huge decision to leave Montreal, but the chance was too good to pass up. Her introverted nature means that chat rooms and forums are now her best source of social interaction. Her new favourite activity is to answer botany questions for others under her new moniker of Science Girl. One evening, during a long bus ride back from the city, Claudette took a stroll that would change her life. It only took a minute for her to get completely disoriented in the thick woods. She never found her way back. Her forum only started to wonder where she was a week after she stopped posting. Claudette is not the outgoing type. Her brilliance provided her with a social handicap and she has fled the real world for chat rooms and forums. Botany and studies fill her life and even though she yearns for something else - it won’t come via a modem. Being thrown into a real life situation can feel awkward and forced. But as she is used to shutting out the world, she suddenly finds hope in this unexplainable darkness that is slowly devouring her. A plant. A tree. A bush. Simple greenery that might save a life. She hides within and amongst them. Her knowledge and skills flourish as gruesomeness roams free around her.",
+        "perks": ["Empathy", "Botany Knowledge", "Self Care"],
+        "difficulty": "Easy",
+        "id": 2
+      },
+      {
+        "name": "Jake Park",
+        "bio": "Growing up the son of a wealthy CEO was always going to put pressure on Jake Park. When his brother graduated with honours from Yale, the pressure on Jake intensified. Jake just wasn't the academic type, but his father never really understood his refusal to embrace the expensive education he lavished upon him. Eventually, Jake rebelled by dropping out of school entirely. Now, Jake lives off the grid on the edge of the woods. It's been years since he spoke to his father but his mother checks in once in a while. It was she, who eventually called the police. The cops said he got lost in the woods and a search party looked for days, but gave up as bad weather rolled in. Despite passionate pleas from his mother, they never resumed the search and Jake went down in history as another casualty of the woods. Jake's destiny was set even inside his mother's womb. Heir to wealth, noble manners and caretaker of the family reputation and legacy. During torture it's not pain that breaks a man, it's immense pressure. And Jake couldn't handle any more pressure. Instead he sought the opposite of fine dining and maids. He left the grid and ended up with a forest as closest neighbour. A self made outsider, Jake understands nature. He's not there to tame something - rather him becoming feral. Remove the brutal Killers that seek out blood to drain and Jake would feel just at home. No Wi-Fi. No Fortune-500 companies. No father nor mother. Years away from modern life has given Jake a new feel for problems. Pain is just an obstacle that hinders you from getting fed. No matter what is hunting you, you need to stay one step ahead. Struggle, blend in, adapt. Just don’t make it easy for others to erase you from the Earth's surface.",
+        "perks": ["Iron Will", "Calm Spirit", "Saboteur"],
+        "difficulty": "Intermediate",
+        "id": 3
+      },
+      {
+        "name": "Nea Karlsson",
+        "bio": "Nea is of Swedish descent, a tagger and a bit of a troublemaker. She started rebelling when she was 16, she dyed her hair black and cut it in a way she liked it. In her early teens, her parents thought she lacked that thing that makes everyone else 'normal'. She may have gone too far when her friends, not thinking well, dared her to tag the old asylum. She was never seen again, and now tries her best to survive the Entity's dangers. Nea grew up in the small town of Hjo in Sweden. She had a happy childhood even though her mom and dad worked hard. As the opportunity to move to the US became a reality she started acting out. Her parents didn’t really pick up on this as a reaction to their move. Nea was forced to leave her friends and life behind. Nea shied away from what her parents considered 'normal'. Instead she took refuge in skate parks, and her tag 'Mashtyx' was seen more or less all over her new hometown, and Nea made a sport out of tagging government buildings. Finally Nea’s parents became used to Nea disappearing for a few days on end. As she’s nimble and almost catlike, she’s able to evade deadly dangers. Years on skateboards has proven worthy training. And keeping her head down, avoiding the fuzz can be applied to all dangers. The only question is whether she has some interest in not giving up.",
+        "perks": ["Balanced Landing", "Urban Evasion", "Streetwise"],
+        "difficulty": "Intermediate",
+        "id": 4
+      },
+      {
+        "name": "Laurie Strode",
+        "bio": "You never know what really matters in life until you've realized it might end soon. Laurie is one of those who just wants a quiet life in the suburbs, hanging out with friends, family and maybe go on a date or two. Laurie is a typical teenager. You could pass her on the street and not think twice. She does her homework and is liked by her friends, teachers and family. A simple night of babysitting turns into something that will forever change the course of her young life. A knife swooshing through the air. Screams from afar. Noises that plays tricks with her mind. But not Laurie, she’s made of something stronger. Something that won't give up.",
+        "perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"],
+        "difficulty": "Hard",
+        "id": 5
+      },
+      {
+        "name": "Ace Visconti",
+        "bio": "Ace Visconti is one charming guy. With his sharp Italian looks, grey-streaked hair and silver tongue, he could pass for an ageing 50's movies star. His heart has always belonged to the cards. From his roots as a poor boy in Argentina, he gambled, scammed, seduced and smooth-talked his way to a life of luxury as a high roller in the land of opportunity. Despite money always having a way of slipping through his fingers, Ace always figured he could win more. He never fulfilled that ambition; eventually he racked up too many debts with the wrong kind of people. And when they finally came to collect, Ace was nowhere to be found. No one knew who tipped him off or where he fled to, but anyone who knew Ace Visconti can agree on one thing. He will survive: against all odds.",
+        "perks": ["Open-Handed", "Up the Ante", "Ace in the Hole"],
+        "difficulty": "Easy",
+        "id": 6
+      },
+      {
+        "name": "William 'Bill' Overbeck",
+        "bio": "It took two tours in Vietnam, a handful of medals, a knee full of shrapnel, and an honourable discharge to get William 'Bill' Overbeck to stop fighting and try to live a peaceful life. He hated it. After decades spent drifting aimlessly through dead end jobs, Bill went in for a routine surgery and woke up to find the world he knew was gone. A plague was turning normal people into mindless killing machines. Naturally, the first thing he did was fight his way home and put on his uniform. Making his way through rural ghost towns and pitch-black forests, he found other Survivors, and together they fled from the infected hordes. In the end, Bill sacrificed himself to ensure their safety. His body was never found. Bill was left for dead. No one knows that he still has the only thing he ever wanted: an enemy to fight.",
+        "perks": ["Left Behind", "Borrowed Time", "Unbreakable"],
+        "difficulty": "Hard",
+        "id": 7
+      },
+      {
+        "name": "Feng Min",
+        "bio": "Feng Min was a young girl when she first picked up computer games, and she was instantly hooked. The brand new worlds enchanted her with colours, sounds and explosions – a chance to be somewhere else, or someone else. Her parents saw no wrong with a few minutes in front of the screen, but as minutes turned into hours and sometimes days, they finally decided to pull the plug and force Feng Min to put more efforts into her studies. She felt smothered by her parents who refused to see the potential of a future in games, so she left home and spent her time in internet cafés and LAN parties where the old rules didn't apply. She spent hours playing, streaming, competing to rise to the top. Her parents became what she called 'holiday parents' as she never saw them outside the holidays, and she became the black sheep of a one-child-family. In the gaming world, however, she finally found respect. Nicknamed the 'Shining Lion,' she was invited to join a prestigious e-sports team and to live in their dorms, where she found a sanctuary free of the misconceptions and prejudice she had felt from her parents and the non-gaming world. Feng Min pushed her limits to prove she was the best. Sleep was less important to her than training. At the top of her game, she filled stadiums with fans who adored her. But it couldn't last forever; The pressure to be the best grew stronger and stronger. She pushed herself too far, slept too little, and her performance began to slip. She started to lose. At night, she would stay up, tormented by the thought of disappointing her parents… and her fans. She spiralled out of control and fell into a pattern of self-destruction. She started wandering the streets and visiting bars, where no one knew of e-sports, waking up in places she didn't remember. One day she woke up somewhere completely different… in a never-ending nightmare. Feng Min did not despair – as she learned more about the challenge she was up against, she realized this was what she had been training for her entire life. Now, she was going to win.",
+        "perks": ["Technician", "Lithe", "Alert"],
+        "difficulty": "Easy",
+        "id": 8
+      },
+      {
+        "name": "David King",
+        "bio": "The single child of a wealthy family, David King seemed destined for greatness. While growing up in Manchester, he demonstrated serious potential in both sports and academics, and with his family connections, all doors were open to him. He could have succeeded at anything, if it weren't for his combative nature. David lived for the adrenaline rush of a good fight and would go out of his way to get into one. His robustness and athletic abilities led him to rugby, where he could cut loose and really cause a ruckus. King excelled and gained a reputation as a promising, if somewhat reckless, rookie. His meteoric rise came to an abrupt end when he lost his temper and assaulted a referee, earning himself a lifetime ban from the league and cutting short what most people assumed was going to be a long, successful career. King was unconcerned; money was no issue, so he took it as an early retirement and focused on other fun things to do. Free from the constraints of a career and enabled by the wealth of his family, David King spent most of his time at the pub, drinking, watching games, and getting into fights. Some might say he was wasting his life away. Not many people knew that he was an occasional 'debt collector' or that he fought in clandestine bare-knuckle fight clubs. When David King stopped showing up at the pub, the few friends he still had were not surprised. They figured he had finally picked a fight with someone stronger than he was. In a way, they were right.",
+        "perks": ["We're Gonna Live Forever", "Dead Hard", "No Mither"],
+        "difficulty": "Intermediate",
+        "id": 9
+      },
+      {
+        "name": "Quentin Smith",
+        "bio": "When he heard that Nancy's mother had disappeared, Quentin Smith knew instantly that their success had been short-lived. Although their plan had seemed to work flawlessly, Freddy Krueger had beaten death yet again. But Quentin wasn't about to give up. It may take many attempts, but he vowed that somehow they would find a way to beat Freddy, once and for all. If he didn't, it would only be a matter of time before Freddy would win and Nancy was lost. Someone like Quentin never attracted attention in a library, no matter how strange the texts he requested. He devoured all the information he could find, on shared dream worlds, lucid dreaming, and the methods to control the dream space. Forcing himself to stay awake, via a steady diet of pills and energy drinks, he searched through dusty volumes, finding myths about the demons that live in dreams, trapping their victims in limbo and feeding off their terror. He worked quickly as he knew that Freddy would soon be coming for him. It wasn't long before that moment arrived and Freddy began appearing in his dreams. He stayed at the periphery at first, taunting Quentin, seemingly hoping to tire him out. Using all that he had learned, Quentin was able to see flaws in the dream; cracks where escape routes could be formed. He tested this skill carefully, not wanting to show his hand, hoping that it would give him some kind of advantage that he could use to defeat Freddy. Then, one night, he found himself in the familiar environment of Badham Preschool. Freddy had tired of the taunting and had finally decided to gut him. Quentin ran through the school, his quick eyes scanning for something useful in the maze of rooms. He found a can of paint thinner and quickly formulated a plan. Once the trap was set, he waited, acting as the lure to draw Freddy into the right position. And there he was, claws scraping on metal as he closed in for the kill. Quentin allowed himself time to enjoy the surprise on Freddy’s face as the corridor ignited and then he was away, running through the building, heading for the exit that he knew existed. If he harried Freddy, weakening him and then escaping the dream, surely that would defeat him over time? Before his eyes, the cracks in the dream closed and his escape route was blocked. He was in Freddy’s secret room again, and there was nowhere to run. As Freddy closed in, a broad grin spreading across his ruined face, Quentin was consumed with a need to see this man finally obliterated. He wished it had been him, not his father, who threw the gas can that ended Krueger’s life, that it had been him who cut Freddy’s throat. Perhaps that desire would be enough? This was a realm of the mind after all. He let it consume him, concentrating all his thoughts on wishing Freddy gone. His vision was obscured with roiling tendrils of fog and, when it cleared, he was somewhere else. In another dream? If so, it wasn't his; it felt cold and unfamiliar. A flickering drew his attention and he realised he was by a campfire, and he wasn't alone. Other people were trapped here too, and they needed his help.",
+        "perks": ["Wake Up!", "Pharmacy", "Vigil"],
+        "difficulty": "Easy",
+        "id": 10
+      },
+      {
+        "name": "Detective David Tapp",
+        "bio": "Detective David Tapp was one of the good guys. His determination to see Killers brought to justice and their victims avenged had led him through a long and respected career. When he first saw the details of the Jigsaw case, it seemed like many others. More grisly and macabre, sure, but just another lunatic with a penchant for the over-dramatic, who would soon be behind bars. A stroke of insight brought Tapp, and his partner Detective Stephen Sing, to an abandoned mannequin factory, where they discovered Jigsaw’s lair. They apprehended the man but he managed to escape before being unmasked, slashing Tapp's throat as he did so. Leaving his partner, Sing went in pursuit but fell victim to a booby trap. Tapp had failed to go by the book on this one occasion, entering the lair without a warrant, and it had resulted in a Detective's death. He was discharged from the force and left with a ruined throat and crippling guilt. He channelled that guilt into an obsession: he would find the killer, stop the murders, vindicate himself, and avenge his friend and colleague. Following the evidence trail brought him to Dr Lawrence Gordon and he staked out the doctor’s apartment, sure that he would find some evidence of guilt. Then he saw a stranger at Gordon's window and heard gunshots. Tapp confronted him and the man fled, with the pursuit leading to an industrial building. Tapp's age caught up with him, a fight that he would easily have won in his younger days ended with Tapp taking a bullet to the chest. Slumping to the floor, he saw only failure. He had failed his partner and the other victims. Whoever the killer was, Tapp had been unable to stop him. More would die and it would be his fault. He let the rage and guilt consume him and closed his eyes for the final time. Beneath him, the concrete floor softened. He dug his fingers into the ground, feeling dirt and leaves. Where his chest had been wet with blood, the shirt was now dry and the pain had gone. His eyes opened onto a darkened sky and the jagged, searching fingers of branches. Screams echoed through the forest and a new determination filled him. His mind was clear for the first time in months. Victims needed to be avenged, killers thwarted. He didn’t know what this place was, but he was still a cop, and he always would be. He had a job to do.",
+        "perks": ["Tenacity", "Detective's Hunch", "Stake Out"],
+        "difficulty": "Intermediate",
+        "id": 11
+      },
+      {
+        "name": "Kate Denson",
+        "bio": "One of Kate Denson's earliest memories was standing in front of her family, singing a song that she'd learned that morning at school, and watching smiles spread across their faces. Seeing how something as simple as a song could make people so happy was the moment when she knew what she wanted to do with her life. She practised, learned the guitar as soon as she was big enough to reach over it, and was performing in front of crowds by the time she was eight years old. Her mother did everything she could to fulfil Kate's dreams, taking her all over their home state of Pennsylvania, then across the South, and even to Nashville itself. Kate won folk music competitions and talent shows whenever she participated, but for her to win others had to lose, and that wasn't in her nature. She only wanted an outlet, a way to touch people's lives. To make them forget the worries of the world and just enjoy themselves, if only for a while. With age came a new-found freedom. She bought a battered old Chevy truck and was able to travel around by herself, meeting fans and making new friends wherever she stopped. Hers wasn't a story of rock excess though: just the road, her guitar and maybe a good bourbon to end the day. From sun-baked festivals to dark and cosy bars, people flocked to her voice and her self-penned songs of friendship, family, love and home. These sentiments weren't just lip-service: she made sure to return home as often as she could, to help out in her community and entertain the local children with her tales of the wider world. She saw it as a way of giving back, of supporting others in the same way she had been. It was home where she found most of her inspiration as well. She had always loved to take long walks in the woods around her town, exploring off the beaten track, finding a quiet spot to play and write her songs. She had a favourite location she returned to time and time again, a natural hollow, encircled by trees, that looked almost as if it had been blasted out of the rocks thousands of years ago. Here she felt a strong connection to nature, and to the Earth itself. She let her mind be enveloped by the forest and it rewarded her with constant inspiration. She picked up her guitar and played, her fingers dancing across the fretboard. The music that she made this time was unlike her usual uplifting tunes, being much more melancholy, even dark. Still, something compelled her to continue, to finish the song. Around her, the leaves vibrated in unison with the guitar strings and the boughs of the trees lengthened, coalescing into a living form. Spider-like legs descended from the canopy above, grasping for her. Regaining her senses, she grabbed a rock and tried to beat them back, but their skin was hard as iron and the rock simply bounced off and skittered away. The legs coiled like tendrils around her limbs and lifted her towards the darkness overhead. Fog rolled across the clearing, obscuring both Kate and the creature of nightmares that drew her up towards itself. When the fog cleared, there was no sign of any struggle, or of life. Just an acoustic guitar, the scratch plate engraved with flowers; as well as the initials KD, inlaid in mother of pearl.",
+        "perks": ["Dance With Me", "Windows of Opportunity", "Boil Over"],
+        "difficulty": "Easy",
+        "id": 12
+      },
+      {
+        "name": "Adam Francis",
+        "bio": "Adam was born in Rollington Town in Kingston, Jamaica. His father died in a car accident when he was two, and his uncle took him in. His uncle was a strict, but fair man, who raised him to value education. At Kingston College, Adam discovered his father's published works, which triggered his passion for literature. His campus, however, was known for its focus on athletics. As a shy teenager with his nose stuck in books, he was the perfect prey for bullies. What he lacked in sports, he made up in grit. He learned to defend himself in the thick of it. It's during his years in college that he started to imagine his life elsewhere. While his close friends orbited the music industry, he followed a surer path. His grades granted him admission to higher education, and there was a demand for teachers abroad. After graduating university, he taught extra classes to afford applying fees overseas. He had a steady diet of long commutes, grading piles, nightly lesson plans, and early classes. After a year, he managed to apply for a position abroad. His first plane ride took him to Southern Japan for a new start. His life in Kagoshima was hectic. There was little time to do everything he took for granted back home. His Japanese was elementary at best, which slowed him down. Buying groceries took hours, long commutes had to be planned, and lesson plans relied on Japanese notions, which he had to learn. But after a few months, he found his rhythm. He reflected on it one morning while riding the train to work. He no longer had to study the Kanji characters filling the map. He knew his way. His language skills had improved, he felt connected to his students, and he'd treat himself to luxurious restaurants on weekends. He even had his first vacation planned. Within seconds, Adam's world was brought down to a slow motion. Rails hissed, bags came pouring down, and the floor trembled before the hit: Adam crashed forward as the train flipped upside down. He landed on a window pane as an unhinged door came flying at a passenger. He rolled over so that the door would hit him instead of the girl. He shut his eyes as he braced for impact, but nothing happened. He squinted one eye open and he saw nothing but darkness. A heavy Fog had taken over the train. Ice seemed to flow through his body, reaching his lips first, then the tip of his fingers before spreading to his legs. Lulled by the warm hum of the dark whisper, he closed his eyes, drifting. No one truly knows what happened to Adam Francis. The school teachers imagined the worst when they watched the train derailment on the news and saw he was missing. Their fears seemed to be confirmed when Adam's bag was recovered from the crash site, but his body was never found. To this day, his uncle believes that Adam took off after the train crash, alive still, somewhere out there.",
+        "perks": ["Diversion", "Deliverance", "Autodidact"],
+        "difficulty": "Intermediate",
+        "id": 13
+      },
+      {
+        "name": "Jeffrey 'Jeff' Johansen",
+        "bio": "Jeff Johansen was born and raised in Ormond, Alberta. He grew up as a quiet, only child with an aversion for large crowds. During High School, his anxious nature was mislabelled as shyness, which he covered up with a tough, stoic persona that intimidated bullies and teachers alike. At home, he discovered an interest for heavy metal and started a vinyl collection. The evocative symbolism on the covers inspired him to make some art of his own, which helped him cope with his parents' constant fighting. To escape his parent's increasingly recurrent blow-ups, Jeff started working at a video store. Few customers passed by, so he had a lot of free time to draw. A late-night regular noticed his sketches and asked him to do some artwork for his gang at the abandoned lodge up Mount Ormond. Jeff accepted the challenge and pained a large mural depicting 'The Legion' in runny, bloody letters. He was given a fifty-dollar bill and a 12-pack for his hard work. It was his first paid commission, a milestone to be proud of.After his parents' divorce, Jeff was forced to move with his mother to Winkler, Manitoba, which was miles away from his home town—and his dad. In Winkler, Jeff was more isolated than ever, expect for art and music. His solace came shortly after graduating High School when he started working at a local bar with live music performances. He found a roadie gig shortly after, leaving Winkler behind. A few years later, Jeff got injured after getting involved in a fight during a concert. He was told he could lose part of his eyesight, so his doctor asked him to stay in town in order to monitor him. It was a difficult time during which Jeff re-assessed his life choices. He went back to school—art school. His eyesight slowly returned, but he had to be careful. He took a few courses, experimenting with a wide range of mediums, ultimately choosing oil painting and digital art, the latter of which offered paid intern-ships. He took up a desk job and found his calling in designing labels for microbreweries. He led a quiet, simple life: he brewed beer, took-in a rescue dog, designed tattoos, and freelanced album covers for bands he liked. All until one morning, when he got a phone call from Ormond saying that his father had passed, leaving a few things to sort out. Jeff drove all the way back to Ormond. He felt a pang of nostalgia when he reached his late father's house. Inside, there was an old guitar case sitting in against the wall. It held a black, vintage model with a sticky note that said, 'for my boy'. He stayed in town longer than he planned to, reminiscing about his childhood. Driving by his former High School, he remembered the mural he painted up Mount Ormond. He bought a 12-pack and headed to the lodge. After weeks of not hearing back from Jeff, his colleagues assumed that grief had gotten the better of him. His neighbour got tired of sitting his dog, which became more and more agitated as days went by. The dog became a stray again, erring while seeking the familiar trail of Jeff's malty scent.",
+        "perks": ["Breakdown", "Aftercare", "Distortion"],
+        "difficulty": "Intermediate",
+        "id": 14
+      },
+      {
+        "name": "Jane Romero",
+        "bio": "Jane Romero was the daughter of famous actress, Loretta Lawrence, of whom she had no memory. Her parents had separated when she was still a baby, mainly since her mother was often away filming. Jane was raised by her father, a struggling visual artist. She grew up torn between resenting her mother's absence from her life and admiring her presence on screen. As a teenager, Jane secretly wished to emulate her mother's talent. She would direct and perform in plays, audition for TV commercials and help her father at his studio. During her senior year, she entered a national oratory contest and won first prize. Her performance attracted the attention of a radio station that contacted her for an interview. During the live show, her natural charm and repartee impressed the staff, who offered her a part-time job at the station. After graduating college in Communication, she quit her job at the station to work for a trendy variety show. But her frank delivery and ad-libs were not appreciated by the show's executives, who fired her after five months. Desperate for another opportunity, Jane pitched a show at the radio station she used to work at, only to be turned down, her proposal being too risky. Four months later, she received a phone call from a producer who had seen reruns of the show. He was looking for a co-host to spark up the failing show Quick Talk. Live television meant long hours, a low salary, and no stability, but it also offered a platform to broadcast her views. She disputed the crude inflammatory tone of Quick Talk and pushed for a relate-able coverage of personal issues. Her honest delivery resonated with her audience and within weeks, the show's viewer-ship was steadily growing. After two years, she launched a full-hour segment called The Jane Romero Show, which was broadcast nationally and covered tabooed topics, including her personal struggle with abandonment. Her show broke records and her initials J. R. became synonymous with products ranging from beauty creams to fashion accessories. But Jane needed more; she wanted others to follow her in her footsteps. She published a memoir that covered her childhood with an absent mother. Her book was an instant best seller, but was reviewed harshly. Critics called it 'a serving of sad anecdotes seasoned with bland, generic self-help tips'. Jane took this criticism to heart, since despite her success, a voice in the back of her mind was starting to doubt her achievements. Her success also generated an increasingly demanding schedule and a growing pressure to entertain constantly. During a particularly tense week, she canned an episode and instead launched a two-hour-long special on divorce. Her stress peaked when she learnt that her mother had agreed to star in her show. Jane put on a brave face and began the show. Most of it went without a hitch, but her mother walked on set, smiling warmly at the audience, Jane's stomach lurched unpleasantly. She was consumed by a violent envy that had been festering. Yet she carried on with a strained smile, until Loretta interrupted her, saying that they were not actually related. The interview went haywire after that. After the show, Jane was driving to her father's house in New Jersey. She needed to talk things over with him; she had not been feeling like herself lately. She turned on a free-way along the coast to avoid major congestion and popped some painkillers to numb the throbbing pain in her temples, which had been nagging her all day. Then she started to relax and turned on the radio; classical music was playing. The drive was slow. Black ice covered the highway, which was packed with cars on their way back home. Night fell. A darkness began to blur the corners of her vision and turned the headlights into swirls of red. Jane blinked to sharpen their outlines, but each time she closed her eyes, her eyelids became heavier and heavier, until they remained shut for a moment too long. The following morning, authorities were fishing out Jane's car from the water. Despite leading a meticulous search for weeks, they were unable to retrieve her body. The airing and production of The Jane Romero Show was suspended until after her funeral, which both her father and mother attended. As the public grieved for Jane, there was a surge of orders for J. R. products and all her episodes were re-released a month later, with an opening credit that wished her eternal peace.",
+        "perks": ["Solidarity", "Poised", "Head On"],
+        "difficulty": "Intermediate",
+        "id": 15
+      },
+      {
+        "name": "Ashley 'Ash' Joanna Williams",
+        "bio": "During a weekend at a cabin with friends, Ash Williams uncovered the Necronomicon Ex-Mortis (The Book of the Dead) and awoke something dark in the woods. Evil possessed his friends, whom he was forced to kill, and his right hand, which he sawed off. For the next thirty years, Ash ran from his past, working at a Value Stop department store and seducing women in dive bars. But he screwed up one night while being high, when he read from the Necronomicon to impress a woman. Evil found him once more, wrecking the life of those around him. But his co-workers, Pablo who was raised by a shaman and Kelly who was orphaned by the Deadites, helped him put up a fight. While battling Evil, Ash was reunited with his long-lost daughter Brandy, who encouraged him to embrace his role as saviour of humanity. After a terrible fight with a fully formed demon, Ash, drawing his last breath, was taken by the Knights of Sumeria and transported into the future. Ash wakened to a voice, his head throbbing. Since defeating a gang of Deadites a weak ago, he had been in a perpetual state of hangover. He heard the voice once more; a woman singing, sensual and inviting. Stepping into the corridor in his boxers, he strode towards the voice, which lead to the public locker room. As Ash pushed open the door, the singing stopped. There was a rustling of curtains. He called out, entering the change room. His voice reverberated on the mouldy tile walls. He pressed on, reaching a shower that was still dripping wet. Cold, humid fingers ran down his bare back. He turned around. A woman stood naked, her skin glistening in the morning light that streamed in from high windows. Ash recognised her instantly: Linda Emery, one of his former high school flings. They had gotten back together years later, while saving their home town from Evil. He had ended their relationship soon afterwards, preferring to indulge freely in his new-found popularity. Linda winked at Ash, who closed the distance between them. He caressed her cheek wistfully: What was she doing here? Did she know anything about the whereabouts of her daughter? And Pablo and Kelly? A sharp blade dug into his hand, making him jump back. Linda slid a finger across the edge of her blade, collecting Ash's blood on her fingertip. She smiled, and her skin shrivelled, her hair faded, her shoulders stopped, and her curves sagged, ageing decades older in a matter of seconds. She attacked Ash, who poorly managed to block, being half-naked. Every blow she delivered earned him a new wound. She slashed his bad knee and he fell to the floor. As she jumped on top of him, Ash shrieked in disgust, knocking the knife out of her grasp. Her varicose hands wrapped around his neck, strangling him. Gasping, he outstretched his arm, hand landing on a soap dispenser. He spurted out some liquid on his fingers and poked her in the eyes. The elderly woman winced, weakening her hold, and Ash elbowed her in the face, knocking her back. He rolled over and grabbed the knife on the floor. Just as he was about to plant it in her chest, he stopped. There was something else he wanted more. He pressed the blade against her throat. Let's make a deal, demon. In exchange for not killing you, you portal me back to my friends. The demon agreed. She began reciting the incantation, instructing Ash to repeat after her, which he failed to manage. When nothing happened, Ash threatened the demon, who argued back, blaming his poor pronunciation. Their combined exchange of Sumerian words triggered a hiss from the shower behind them. The wet tiled floor darkened, and the pipes burst. A whirlpool of dirty water, shower curtains, and used toilet paper swallowed the demon, while Ash held onto a locker door, which slowly slipped from his fingers. FFFUUUC- Ash landed flat on his chest in the Realm of The Entity, sputtering grass. He got up, brushing off the dry clothes he suddenly had on. Then he looked around and his grin fell. It was the kind of place that made two things obvious: one, there wasn't any bar for miles, and two, he was going to need his shotgun and chainsaw, both of which he lacked. As he started to walk towards a glinting light ahead, a scream rippled through the trees. Groovy.",
+        "perks": ["Flip-Flop", "Buckle Up", "Mettle of Man"],
+        "difficulty": "Easy",
+        "id": 16
+      }
+    ],
+    "killer": [
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      },
+      {
+        "name": "",
+        "bio": "",
+        "perks": ["", "", ""],
+        "difficulty": ""
+      }
+    ]
+  }
+}

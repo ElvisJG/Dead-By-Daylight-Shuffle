@@ -1,26 +1,51 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import { Route, Switch } from 'react-router-dom';
+import { CSSTransition, TransitionGroup } from 'react-transition-group';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import dbdData from './assets/dbdData.json';
+
+import Nav from './components/Nav/Nav';
+import Roll from './components/Roll/Roll';
+import Survivors from './components/survivors/SurvivorsList';
+import Killers from './components/killers/KillersList';
+
+export default class App extends Component {
+  constructor() {
+    super();
+    this.state = { dbdData };
+  }
+
+  render() {
+    const { characters, main } = this.state;
+    return (
+      <div className='app'>
+        <Nav />
+        <Route
+          render={({ location }) => (
+            <TransitionGroup>
+              <CSSTransition timeout={450} classNames='fade' key={location.key}>
+                <Switch location={location}>
+                  <Route path='/' exact render={() => <Roll main={main} />} />
+                  <Route
+                    path='/survivors'
+                    render={() => (
+                      <Survivors
+                        characters={this.state.dbdData.characters.survivor}
+                      />
+                    )}
+                  />
+                  <Route
+                    path='/killers'
+                    render={() => (
+                      <Killers characters={characters} main={main} />
+                    )}
+                  />
+                </Switch>
+              </CSSTransition>
+            </TransitionGroup>
+          )}
+        />
+      </div>
+    );
+  }
 }
-
-export default App;
