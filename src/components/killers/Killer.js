@@ -12,14 +12,8 @@ export default props => {
   }
   return (
     <div className='killer-solo'>
-      <img
-        src={require(`../../assets/Killers/Full Body/${killer.name}.png`)}
-        alt={killer.name}
-        className='survivor-full-img'
-      />
       <div className='text-content'>
         <h3>{killer.name}</h3>
-
         <div className='perks'>
           {killer.perks.map(perk => {
             return (
@@ -39,6 +33,11 @@ export default props => {
           <p>Difficulty: {killer.difficulty}</p>
         </div>
       </div>
+      <img
+        src={require(`../../assets/Killers/Full Body/${killer.name}.png`)}
+        alt={killer.name}
+        className='survivor-full-img'
+      />
     </div>
   );
 };
