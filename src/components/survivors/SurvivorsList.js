@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Survivor from './Survivor';
-import './survivors.css';
+import SurvivorSelect from './SurvivorSelect';
+import './survivorsmenu.css';
 
 export default function SurvivorsList(props) {
   return (
@@ -13,7 +13,7 @@ export default function SurvivorsList(props) {
         <div className='survivors'>
           {props.characters.map(surv => {
             return (
-              <Survivor
+              <SurvivorSelect
                 name={surv.name}
                 bio={surv.bio}
                 perks={surv.perks}

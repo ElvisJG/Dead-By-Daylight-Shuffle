@@ -1,0 +1,41 @@
+.page {
+  width: 100%;
+  background: #999;
+  display: flex;
+  justify-content: center;
+}
+
+.survivors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 125rem;
+  min-height: 100rem;
+}
+
+.survivor-card {
+  border: 10px solid black;
+  width: 13rem;
+  height: 13rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
+}
+
+.survivor-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.survivor-img {
+  width: 200px;
+  margin-bottom: 0.3rem;
+}
+
+.survivor-card h3 {
+  font-weight: bold;
+}
