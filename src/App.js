@@ -7,6 +7,7 @@ import dbdData from './assets/dbdData.json';
 import Nav from './components/Nav/Nav';
 import Roll from './components/Roll/Roll';
 import Survivors from './components/survivors/SurvivorsList';
+import Survivor from './components/survivors/Survivor';
 import Killers from './components/killers/KillersList';
 
 export default class App extends Component {
@@ -30,6 +31,12 @@ export default class App extends Component {
                     path='/survivors'
                     render={() => (
                       <Survivors characters={characters.survivor} />
+                    )}
+                  />
+                  <Route
+                    path='/survivor/:id'
+                    render={props => (
+                      <Survivor {...props} character={characters.survivor} />
                     )}
                   />
                   <Route

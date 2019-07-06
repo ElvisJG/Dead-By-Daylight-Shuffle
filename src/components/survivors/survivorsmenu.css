@@ -39,3 +39,8 @@
 .survivor-card h3 {
   font-weight: bold;
 }
+
+.surv-link {
+  text-decoration: none;
+  color: black;
+}
