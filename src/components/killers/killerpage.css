@@ -1,0 +1,35 @@
+.killer-solo {
+  display: flex;
+  margin: 2rem;
+}
+
+.killer-full-img {
+  width: 300px;
+}
+.text-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-content h3 {
+  font-size: 4rem;
+}
+
+.perks {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: 3px solid red;
+}
+
+.perk {
+  margin: 0 auto;
+}
+
+.perk p {
+  font-size: 2rem;
+  color: black;
+}

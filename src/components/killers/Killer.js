@@ -1,18 +1,27 @@
 import React from 'react';
 
-import './killers.css';
+import './killerpage.css';
 
-const Killer = props => {
+export default props => {
+  const killer = props.character.find(
+    i => String(i.id) === props.match.params.id
+  );
+
+  if (!killer) {
+    return <div>Searching DBD Database...</div>;
+  }
   return (
-    <div className='killer-card'>
-      <div className='killer-content'>
-        <img
-          src={require(`../../assets/Killers/${props.name}.png`)}
-          alt={props.name}
-          className='killer-img'
-        />
+    <div className='killer-solo'>
+      <img
+        src={require(`../../assets/Killers/Full Body/${killer.name}.png`)}
+        alt={killer.name}
+        className='survivor-full-img'
+      />
+      <div className='text-content'>
+        <h3>{killer.name}</h3>
+
         <div className='perks'>
-          {props.perks.map(perk => {
+          {killer.perks.map(perk => {
             return (
               <div className='perk' key={perk}>
                 <img
@@ -25,9 +34,11 @@ const Killer = props => {
             );
           })}
         </div>
+        <div className='bottom-content'>
+          <strong>{killer.bio}</strong>
+          <p>Difficulty: {killer.difficulty}</p>
+        </div>
       </div>
     </div>
   );
 };
-
-export default Killer;

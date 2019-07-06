@@ -1,0 +1,46 @@
+.page {
+  width: 100%;
+  background: #999;
+  display: flex;
+  justify-content: center;
+}
+
+.killers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 125rem;
+  min-height: 100rem;
+}
+
+.killer-card {
+  border: 10px solid black;
+  width: 13rem;
+  height: 13rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background: linear-gradient(90deg, #a50000 0%, #510000 100%);
+}
+
+.killer-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.killer-img {
+  width: 200px;
+  margin-bottom: 0.3rem;
+}
+
+.killer-card h3 {
+  font-weight: bold;
+}
+
+.kill-link {
+  text-decoration: none;
+  color: black;
+}

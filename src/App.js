@@ -9,6 +9,7 @@ import Roll from './components/Roll/Roll';
 import Survivors from './components/survivors/SurvivorsList';
 import Survivor from './components/survivors/Survivor';
 import Killers from './components/killers/KillersList';
+import Killer from './components/killers/Killer';
 
 export default class App extends Component {
   constructor() {
@@ -42,6 +43,12 @@ export default class App extends Component {
                   <Route
                     path='/killers'
                     render={() => <Killers characters={characters.killer} />}
+                  />
+                  <Route
+                    path='/killer/:id'
+                    render={props => (
+                      <Killer {...props} character={characters.killer} />
+                    )}
                   />
                 </Switch>
               </CSSTransition>
