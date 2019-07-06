@@ -12,18 +12,20 @@ const Survivor = props => {
         alt={props.name}
         className='survivor-img'
       />
-      {props.perks.map(perk => {
-        return (
-          <div className='perks'>
-            <img
-              src={require(`../../assets/Perks/Survivor-Perks/${perk}.gif`)}
-              alt={perk}
-              className='survivor-perk'
-            />
-            <p>{perk}</p>
-          </div>
-        );
-      })}
+      <div className='perks'>
+        {props.perks.map(perk => {
+          return (
+            <div className='perk'>
+              <img
+                src={require(`../../assets/Perks/Survivor-Perks/${perk}.gif`)}
+                alt={perk}
+                className='survivor-perk'
+              />
+              <p>{perk}</p>
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 };
