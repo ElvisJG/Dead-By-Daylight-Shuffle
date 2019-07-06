@@ -1,8 +1,7 @@
 {
   "main": {
     "welcome": "Dead by Daylight",
-    "button": "Try Your Luck",
-    "creator": "Elvis Gonzalez"
+    "button": "Try Your Luck"
   },
   "characters": {
     "survivor": [

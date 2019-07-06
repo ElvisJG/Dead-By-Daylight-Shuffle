@@ -8,8 +8,7 @@ const cards = [
   'https://upload.wikimedia.org/wikipedia/en/5/53/RWS_Tarot_16_Tower.jpg',
   'https://upload.wikimedia.org/wikipedia/en/9/9b/RWS_Tarot_07_Chariot.jpg',
   'https://upload.wikimedia.org/wikipedia/en/d/db/RWS_Tarot_06_Lovers.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/690px-RWS_Tarot_02_High_Priestess.jpg',
-  'http://i67.tinypic.com/10hkglj.jpg'
+  'https://upload.wikimedia.org/wikipedia/en/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/690px-RWS_Tarot_02_High_Priestess.jpg'
 ];
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
@@ -83,4 +82,4 @@ function Roll() {
   ));
 }
 
-export default Roll;
+export default Roll();
