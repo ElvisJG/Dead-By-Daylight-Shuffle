@@ -16,7 +16,7 @@ export default class App extends Component {
   }
 
   render() {
-    const { characters, main } = this.state;
+    const { main, characters } = this.state.dbdData;
     return (
       <div className='app'>
         <Nav />
@@ -29,18 +29,12 @@ export default class App extends Component {
                   <Route
                     path='/survivors'
                     render={() => (
-                      <Survivors
-                        characters={this.state.dbdData.characters.survivor}
-                      />
+                      <Survivors characters={characters.survivor} />
                     )}
                   />
                   <Route
                     path='/killers'
-                    render={() => (
-                      <Killers
-                        characters={this.state.dbdData.characters.killer}
-                      />
-                    )}
+                    render={() => <Killers characters={characters.killer} />}
                   />
                 </Switch>
               </CSSTransition>

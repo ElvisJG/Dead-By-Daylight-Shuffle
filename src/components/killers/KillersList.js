@@ -4,7 +4,6 @@ import Killer from './Killer';
 import './killers.css';
 
 export default function SurvivorsList(props) {
-  console.log(props);
   return (
     <div className='page'>
       <div>

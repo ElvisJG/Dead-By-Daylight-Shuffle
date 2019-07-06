@@ -3,7 +3,6 @@ import React from 'react';
 import './survivors.css';
 
 const Survivor = props => {
-  console.log(props);
   return (
     <div className='survivor-card'>
       <div className='survivor-content'>
@@ -15,7 +14,7 @@ const Survivor = props => {
         <div className='perks'>
           {props.perks.map(perk => {
             return (
-              <div className='perk'>
+              <div className='perk' key={perk}>
                 <img
                   src={require(`../../assets/Perks/Survivor-Perks/${perk}.gif`)}
                   alt={perk}

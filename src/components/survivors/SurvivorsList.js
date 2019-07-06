@@ -4,7 +4,6 @@ import Survivor from './Survivor';
 import './survivors.css';
 
 export default function SurvivorsList(props) {
-  console.log(props);
   return (
     <div className='page'>
       <div>

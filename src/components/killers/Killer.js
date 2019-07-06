@@ -3,7 +3,6 @@ import React from 'react';
 import './killers.css';
 
 const Killer = props => {
-  console.log(props);
   return (
     <div className='killer-card'>
       <div className='killer-content'>
@@ -15,7 +14,7 @@ const Killer = props => {
         <div className='perks'>
           {props.perks.map(perk => {
             return (
-              <div className='perk'>
+              <div className='perk' key={perk}>
                 <img
                   src={require(`../../assets/Perks/Killer-Perks/${perk}.gif`)}
                   alt={perk}
