@@ -6,7 +6,7 @@ const Survivor = props => {
   console.log(props);
   return (
     <div className='survivor-card'>
-      <h2>{props.name}</h2>
+      <h2 className='survivor-name'>{props.name}</h2>
       <img
         src={require(`../../assets/Survivors/${props.name}.png`)}
         alt={props.name}
