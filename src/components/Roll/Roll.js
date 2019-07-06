@@ -82,4 +82,4 @@ function Roll() {
   ));
 }
 
-export default Roll();
+export default Roll;
