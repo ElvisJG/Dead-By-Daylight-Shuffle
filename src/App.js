@@ -37,7 +37,9 @@ export default class App extends Component {
                   <Route
                     path='/killers'
                     render={() => (
-                      <Killers characters={characters} main={main} />
+                      <Killers
+                        characters={this.state.dbdData.characters.killer}
+                      />
                     )}
                   />
                 </Switch>

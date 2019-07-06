@@ -1,25 +1,25 @@
 import React from 'react';
 
-import './survivors.css';
+import './killers.css';
 
-const Survivor = props => {
+const Killer = props => {
   console.log(props);
   return (
-    <div className='survivor-card'>
-      <div className='survivor-content'>
+    <div className='killer-card'>
+      <div className='killer-content'>
         <img
-          src={require(`../../assets/Survivors/${props.name}.png`)}
+          src={require(`../../assets/Killers/${props.name}.png`)}
           alt={props.name}
-          className='survivor-img'
+          className='killer-img'
         />
         <div className='perks'>
           {props.perks.map(perk => {
             return (
               <div className='perk'>
                 <img
-                  src={require(`../../assets/Perks/Survivor-Perks/${perk}.gif`)}
+                  src={require(`../../assets/Perks/Killer-Perks/${perk}.gif`)}
                   alt={perk}
-                  className='survivor-perk'
+                  className='killer-perk'
                 />
                 <p>{perk}</p>
               </div>
@@ -31,4 +31,4 @@ const Survivor = props => {
   );
 };
 
-export default Survivor;
+export default Killer;

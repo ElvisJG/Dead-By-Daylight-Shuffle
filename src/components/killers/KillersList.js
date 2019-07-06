@@ -1,10 +1,29 @@
 import React from 'react';
 
-export default function KillersList() {
+import Killer from './Killer';
+import './killers.css';
+
+export default function SurvivorsList(props) {
+  console.log(props);
   return (
-    <div class='page'>
+    <div className='page'>
       <div>
-        <p>Killers</p>
+        <div className='section-title'>
+          <h1>All Killers</h1>
+        </div>
+        <div className='survivors'>
+          {props.characters.map(killer => {
+            return (
+              <Killer
+                name={killer.name}
+                bio={killer.bio}
+                perks={killer.perks}
+                difficulty={killer.difficulty}
+                key={killer.id}
+              />
+            );
+          })}
+        </div>
       </div>
     </div>
   );
