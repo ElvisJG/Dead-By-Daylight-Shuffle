@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Survivor from './Survivor';
+import './survivors.css';
 
 export default function SurvivorsList(props) {
   console.log(props);
